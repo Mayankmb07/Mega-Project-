@@ -1,1 +1,1 @@
-# Mega-Project-
+Firstly i had Folder of Mega Project->index.html,Keywords.html,resume.html, assets(Folder)->css(folder)-> main.css, main2.css, and Images(folder)-> img 1,img2,img3, img4,img5,img6,img7 and img8, and in javascript(folder)->app.js and cript.js
